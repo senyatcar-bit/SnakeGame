@@ -8,7 +8,7 @@
 Установка и запуск ⚙️
 1. Убедитесь, что установлен .NET SDK (https://dotnet.microsoft.com/download)
 2. Клонируйте репозиторий:
-git clone https://github.com/senyatcar-bit/SnakeGame.git
+git clone https://github.com/ВАШ-ЛОГИН/SnakeGame.git
 3. Перейдите в папку проекта:
 cd SnakeGame
 4. Запустите игру:
